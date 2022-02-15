@@ -1,1 +1,1 @@
-# -Mathematics-and-Methods-in-Machine-Learning-and-Neural-Networks
+# Mathematics-and-Methods-in-Machine-Learning-and-Neural-Networks
